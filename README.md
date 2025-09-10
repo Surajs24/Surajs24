@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @Surajs24
-- 👀 I’m interested in building applications and tools that can help humanity
-- 🌱 I’m currently learning flutter
-- 💞️ I’m looking to collaborate on working on my startup "Planbuk" 
+
 - 📫 How to reach me surajsanthosh69@gmail.com
 
 <!---
